@@ -3,7 +3,7 @@ An iOS widget that tracks sINV balance, INV amount, current and predicted APY an
 
 # Requirements
 - Download Scriptable from the iOS App Store
-- Arbitrum wallet address with strategy deposits
+- Ethereum wallet address with sINV deposits
 
 # Features
 - INV USD Value
