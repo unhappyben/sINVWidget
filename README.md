@@ -21,7 +21,7 @@ An iOS widget that tracks sINV balance, INV amount, current and predicted APY an
 3. Copy the script code
 4. Update the following constants with your information:
 
-      ```javascriptCopyconst WALLET_ADDRESS = ""```
+      ```const WALLET_ADDRESS = ""```
 5. Add the widget to your home screen:
 
       - Long press your home screen
